@@ -15,3 +15,25 @@ Student of rs-school. The main goal is to become an experienced developer. Not a
 
 - Basic JavaScript
 - Html/CSS
+
+### **Code:**
+
+```
+const mod = function Sum (a,b){
+console.log (a+b)
+}
+
+mod(3,2)
+```
+
+### **Expierence:**
+
+Without experience
+
+### **Education:**
+
+Francisk Skorina Gomel State University. English and German languages
+
+### **English skills:**
+
+B2
