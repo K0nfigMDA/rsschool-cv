@@ -3,37 +3,48 @@
 ### **Contacts:**
 
 - email: iamjustadreamer@yandex.ru
-- phone number: +375447430564
 - skype: maxim-dreamer-
 - discord: @K0nfigMDA
 
 ### **Personal information:**
 
-Student of rs-school. The main goal is to become an experienced developer. Not afraid of difficulties and ready for any task.
+I am a student of rs-school. The main goal is to become a software developer of frontend(JavaScript). Im highly motivated and not afraid of difficulties.
 
 ### **Professional skills:**
 
-- Basic JavaScript
-- Html/CSS
+- HTML5
+- CSS3
+- JavaScript Basics
+- Git, GitHub
+- VS Code
 
 ### **Code:**
 
+Data Reverse
+
 ```
-const mod = function Sum (a,b){
-console.log (a+b)
-}
+function dataReverse(data) {
+  const res = []
+ 
+ for(let i = 0; i < data.length; i+=8) {
+   const divide = data.slice(i, i+8)
+   res.unshift(...divide)
+ }
 
-mod(3,2)
+ return res
+ }
 ```
 
-### **Expierence:**
+### **Courses:**
 
-Without experience
+RS School "JS/FE Stage 1" (in progress)
 
 ### **Education:**
 
-Francisk Skorina Gomel State University. English and German languages
+2018 - English and German languages - Gomel State University
 
-### **English skills:**
+### **Languages:**
 
-B2
+Russian - Native
+English - B2
+German - B1 
