@@ -45,6 +45,6 @@ RS School "JS/FE Stage 1" (in progress)
 
 ### **Languages:**
 
-Russian - Native
-English - B2
-German - B1 
+- Russian - Native
+- English - B2
+- German - B1 
